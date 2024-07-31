@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Sean Chook
+This account is for my projects I have decided to thinker.
+
+
+
 
 <!--
 **lolman262/lolman262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
