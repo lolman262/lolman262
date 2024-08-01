@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sean Chook
 This account is for my projects I have decided to thinker.
-
+Currently trying to add more documentation to my projects and refactor to allow easier setup for them.
 
 
 
